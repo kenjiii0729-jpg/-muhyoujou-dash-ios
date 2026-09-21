@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "無表情ダッシュ",
+    "slug": "muhyoujou-dash",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#f8f7f2",
+    "primaryColor": "#111111",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kenjiii0729.muhyoujoudash",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.kenjiii0729.muhyoujoudash",
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
+
